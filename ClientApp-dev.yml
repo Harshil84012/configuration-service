@@ -1,2 +1,6 @@
 owner:
   name: harshilPanchal dev file
+spring:
+  datasource:
+    username: root
+    password: rootPassword
